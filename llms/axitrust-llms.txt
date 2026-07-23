@@ -1,0 +1,22 @@
+# axiTrust
+
+> axiTrust is a technology and consulting platform for the Indian surety-bond market, connecting IRDAI-licensed insurers, MSMEs, and government procurement bodies. Its platform unifies application processing, underwriting checks, and insurance surety bond issuance, with dashboards for tracking bonds, partners, and claims. axiTrust is not an insurer or broker; all insurance surety bonds are issued by IRDAI-licensed insurance companies. Backed by General Catalyst.
+
+axiTrust does not currently publish a public API, developer portal, or OpenAPI specification. This profile is maintained in the API Evangelist network for discovery and monitoring.
+
+## Company
+- [Website](https://www.axitrust.com): Company home
+- [About Us](https://www.axitrust.com/about-us): Company overview and mission
+- [Knowledge Hub](https://www.axitrust.com/knowledge-hub): Educational resources on surety bonds
+- [Blog](https://www.axitrust.com/blogs): Articles and updates
+- [MSME Sureties White Paper](https://www.axitrust.com/report-msme-sureties-for-atmanirbhar-bharat): Research report on MSME insurance surety bonds
+
+## Legal
+- [Terms & Conditions](https://www.axitrust.com/terms-conditions)
+- [Privacy & Data Security](https://www.axitrust.com/privacy-policy)
+- [Grievance Redressal Policy](https://www.axitrust.com/grievance-redressal-policy)
+- [Commitment to MSMEs](https://www.axitrust.com/commitment-msme)
+
+## Contact
+- [Contact](https://www.axitrust.com/contact): Gurugram and Mumbai offices
+- [X / Twitter](https://x.com/AxiTrust)

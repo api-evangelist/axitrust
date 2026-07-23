@@ -1,8 +1,26 @@
 aid: axitrust
 name: axiTrust
-description: 'axiTrust is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'axiTrust is a technology and consulting platform for the Indian surety-bond
+  market, connecting IRDAI-licensed insurers, MSMEs, and government procurement bodies.
+  Its platform unifies application processing, underwriting checks, and insurance surety
+  bond issuance, with dashboards for tracking bonds, partners, and claims, plus integrations
+  to financial, legal, banking, and ROC data sources. axiTrust also offers consulting
+  services including discovery workshops, economic analysis comparing sureties to bank
+  guarantees, and adoption support for enterprises and government departments. It is
+  not an insurer or broker; all insurance surety bonds are issued by IRDAI-licensed
+  insurance companies. axiTrust is a fintech backed by General Catalyst.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://static.wixstatic.com/media/01c8f6_2fc6a0be1f9d4705811a2c9fda00ebc1~mv2.png
 url: https://raw.githubusercontent.com/api-evangelist/axitrust/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +30,44 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Fintech
+- Insurance
+- InsurTech
+- Surety Bonds
+- MSME
+- India
+- Government Procurement
 apis: []
+common:
+- type: DomainSecurity
+  url: security/axitrust-domain-security.yml
+- type: LLMsTxt
+  url: llms/axitrust-llms.txt
+- type: Website
+  url: https://www.axitrust.com
+- type: About
+  url: https://www.axitrust.com/about-us
+- type: Blog
+  url: https://www.axitrust.com/blogs
+- type: Support
+  name: Knowledge Hub
+  url: https://www.axitrust.com/knowledge-hub
+- type: TermsOfService
+  url: https://www.axitrust.com/terms-conditions
+- type: PrivacyPolicy
+  url: https://www.axitrust.com/privacy-policy
+- type: X
+  url: https://x.com/AxiTrust
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
