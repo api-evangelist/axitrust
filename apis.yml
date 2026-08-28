@@ -9,6 +9,17 @@ description: 'axiTrust is a technology and consulting platform for the Indian su
   guarantees, and adoption support for enterprises and government departments. It is
   not an insurer or broker; all insurance surety bonds are issued by IRDAI-licensed
   insurance companies. axiTrust is a fintech backed by General Catalyst.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
